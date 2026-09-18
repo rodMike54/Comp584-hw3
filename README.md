@@ -1,3 +1,3 @@
-# COMP 584 Homework 2
+# COMP 584 Homework 3
 
-[View my hosted Homework 2 website](https://rodmike54.github.io/Comp584-hw2/comp584-hw2-main/index.html)
+[View my hosted Homework 3 website](https://rodmike54.github.io/Comp584-hw3/comp584-hw3-main/index.html)
